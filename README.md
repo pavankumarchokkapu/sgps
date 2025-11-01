@@ -1,4 +1,4 @@
 # sgps
 This is my first git repository.
 <br>
-Author - Pavan Kumar Chokkapu
+Author - Pavan Kumar (satya)
